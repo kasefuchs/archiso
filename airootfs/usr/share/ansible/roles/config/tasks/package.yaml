@@ -1,9 +1,0 @@
----
-- name: Install packages
-  ansible.builtin.package:
-    name: "{{ config_package_list | ansible.builtin.unique | reject('equalto', omit) }}"
-
-- name: Install pip modules
-  ansible.builtin.pip:
-    name: "{{ config_package_pip_list }}"
-    break_system_packages: true

@@ -1,3 +1,0 @@
----
-# Time zone to configure the system with.
-config_time_zone: "{{ undef(hint='You must specify a time zone') }}"

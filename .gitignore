@@ -1,17 +1,10 @@
 # --- IDE / Editor ---
 .idea/
 .vscode/
+.zed/
+.gram/
+*.iml
 
-# --- ArchISO ---
-# Build artifacts
-output/
-
-# Authorized SSH keys
-airootfs/root/.ssh/authorized_keys
-
-# Pacman config
-airootfs/etc/pacman.d/mirrorlist
-
-# --- Python ---
-# Compiled bytecode files
-*.pyc
+# Artifacts
+build/
+out/

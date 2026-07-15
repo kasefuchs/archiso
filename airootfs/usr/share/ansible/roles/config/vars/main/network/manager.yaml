@@ -1,3 +1,0 @@
----
-# Directory for Network Manager drop-in configuration.
-config_network_manager_include_dir: /etc/NetworkManager/conf.d/

@@ -1,3 +1,0 @@
-#!/bin/sh
-
-/usr/bin/alacritty >/dev/null 2>&1 &

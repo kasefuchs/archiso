@@ -1,9 +1,0 @@
-# Taken from https://github.com/sudotto/cowsay-otto
-
-$the_cow = <<EOC
-  $thoughts
-	  _____
-	</. _ .\\>
-	 \\__^__/
-	 /     \\
-EOC

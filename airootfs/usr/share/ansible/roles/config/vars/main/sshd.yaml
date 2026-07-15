@@ -1,3 +1,0 @@
----
-# Directory for sshd drop-in configuration.
-config_sshd_include_dir: /etc/ssh/sshd_config.d/

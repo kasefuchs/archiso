@@ -1,3 +1,0 @@
-#!/bin/sh
-
-/usr/bin/cowsay "$@" | /usr/bin/lolcat --force
