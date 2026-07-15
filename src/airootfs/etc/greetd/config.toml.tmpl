@@ -4,7 +4,7 @@ switch = true
 
 [initial_session]
 command = "niri-session"
-user = "root"
+user = "{{ .username }}"
 
 [default_session]
 command = "niri -c /etc/greetd/niri.kdl -- gtkgreet -l -c niri-session"

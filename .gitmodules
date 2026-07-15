@@ -1,0 +1,3 @@
+[submodule "vendor/dotfiles"]
+	path = vendor/dotfiles
+	url = https://codeberg.org/kasefuchs/dotfiles.git

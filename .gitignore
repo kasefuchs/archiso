@@ -1,10 +1,13 @@
 # --- IDE / Editor ---
-.idea/
 .vscode/
-.zed/
+.idea/
 .gram/
+.zed/
 *.iml
 
-# Artifacts
+# --- Local state ---
+*.boltdb
+
+# --- Artifacts ---
 build/
 out/
