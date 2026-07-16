@@ -3,6 +3,8 @@ amd-ucode
 arch-install-scripts
 awww
 base
+bash
+bat
 breeze-cursors
 brightnessctl
 btrfs-progs
@@ -12,9 +14,11 @@ debootstrap
 dosfstools
 e2fsprogs
 edk2-shell
+fd
 fish
 fisher
 fuzzel
+fzf
 ghostty
 git
 git-delta
@@ -25,9 +29,10 @@ helix
 imagemagick
 inetutils
 intel-ucode
+iptables
 keepassxc
 less
-helium-browser-bin
+librewolf
 linux
 linux-firmware
 lvm2
@@ -43,9 +48,12 @@ network-manager-applet
 networkmanager
 nfs-utils
 niri
+noto-fonts
 openssh
 parted
+pavucontrol
 pipewire
+pipewire-jack
 pipewire-pulse
 plymouth
 pv
@@ -54,7 +62,7 @@ sudo
 syslinux
 tlp
 tlp-pd
-ttf-jetbrains-mono-nerd
+ttf-jetbrains-mono
 ttf-nerd-fonts-symbols
 waybar
 wireplumber
